@@ -32,7 +32,7 @@ Welcome to my profile! I'm an aspiring undergraduate eager to embark on a journe
 
 ## Education 📚
 
-- **Vaal University of Technology:** Diploma in Engineering Computer Systems
+- **Vaal University of Technology:** Diploma in Computer Systems Engineering
 
 ## Interests 🌐
 
