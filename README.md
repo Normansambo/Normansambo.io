@@ -9,21 +9,21 @@ Welcome to my profile! I'm an aspiring undergraduate eager to embark on a journe
 - **Networking📡**
 - **Problem Solving🧮**
 
-## My Skills Matrix 🛠
+## Skills Matrix 🛠
 
 | Skills                | Proficiency (%) |
 |-----------------------|-----------------|
-| Project Management    | ![50%](https://progress-bar.dev/50/?title=50%) |
-| Communication         | ![50%](https://progress-bar.dev/50/?title=50%) |
+| Project Management    | ![60%](https://progress-bar.dev/60/?title=60%) |
+| Communication         | ![60%](https://progress-bar.dev/60/?title=60%) |
 | Leadership            | ![60%](https://progress-bar.dev/60/?title=60%) |
 | Time Management       | ![80%](https://progress-bar.dev/80/?title=80%) |
 | Problem Solving       | ![90%](https://progress-bar.dev/90/?title=90%) |
 | Critical Thinking     | ![70%](https://progress-bar.dev/70/?title=70%) |
 | **Technical Skills**                    |
-| Programming Languages | ![70%](https://progress-bar.dev/70/?title=70%) |
+| Programming Languages | ![80%](https://progress-bar.dev/80/?title=80%) |
 | Web Development       | ![70%](https://progress-bar.dev/70/?title=70%) |
-| Networking            | ![30%](https://progress-bar.dev/30/?title=30%) |
-| Cybersecurity         | ![40%](https://progress-bar.dev/40/?title=40%) |
+| Networking            | ![50%](https://progress-bar.dev/50/?title=50%) |
+| Cybersecurity         | ![60%](https://progress-bar.dev/60/?title=60%) |
 | **Soft Skills**                         |
 | Teamwork              | ![100%](https://progress-bar.dev/100/?title=100%) |
 | Creativity            | ![80%](https://progress-bar.dev/80/?title=80%) |
