@@ -5,9 +5,9 @@ Welcome to my profile! I'm an aspiring undergraduate eager to embark on a journe
 ## Skills 🛠️
 
 - **Programming (C++ & Python)💻**
-- **Web Development (HTML, CSS & Javascript)📡**
-- **Good Communicator 🗣️**
-- **Able to work as a Team 👥**
+- **Web Development (HTML, CSS & Javascript)🌐**
+- **Networking📡**
+- **Problem Solving🧮**
 
 ## My Skills Matrix 🛠
 
