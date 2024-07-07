@@ -32,13 +32,13 @@ Welcome to my profile! I'm an aspiring undergraduate eager to embark on a journe
 
 ## Education 📚
 
-- **Vaal University of Technology:** Electrical Engineering-Computer Systems
-  - Completed semester 5 theoretical modules
-  - Currently qualifying for an Internship, In-service training, or Work Integrated Learning
+- **Vaal University of Technology:** Diploma in Engineering Computer Systems
 
 ## Interests 🌐
 
 - **Science & Technology 🔬**
 - **Artificial Intelligence (AI) 🤖**
 - **Internet Of Things (IoT) 📡**
+- **Blockchain Technology🏦**
+- **Investments & Businesses 📇**
 - **Music 🎵**
