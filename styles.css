@@ -104,3 +104,71 @@ footer {
 .download-button:hover {
     background-color: #87ceeb;
 }
+
+/* Profile section styles */
+.profile-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.profile-picture {
+    margin-right: 1rem;
+    flex-shrink: 0;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.profile-picture img:hover {
+    transform: scale(1.1);
+}
+
+.profile-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-details .name {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.profile-details .job-title {
+    margin: 0.5rem 0;
+}
+
+.hire-me {
+    background-color: skyblue;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hire-me:hover {
+    background-color: #87ceeb;
+}
+
+/* Social icons styles */
+.social-icons {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-icons a img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease;
+}
+
+.social-icons a img:hover {
+    transform: scale(1.1);
+}
