@@ -24,3 +24,8 @@ function search() {
         }
     });
 }
+
+function scrollToContact() {
+    var contactSection = document.getElementById('contact');
+    contactSection.scrollIntoView({ behavior: 'smooth' });
+}
