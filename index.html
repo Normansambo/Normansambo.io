@@ -19,7 +19,6 @@
             <li><a href="#interests">Interests</a></li>
             <li><a href="#contact">Contact</a></li>
             <li>
-                <!-- Search input and button -->
                 <input type="text" id="searchInput" placeholder="Search...">
                 <button onclick="search()">Search</button>
             </li>
@@ -27,6 +26,16 @@
     </nav>
     <section id="about">
         <h2>About Me</h2>
+        <div class="profile-container">
+            <div class="profile-picture">
+                <img src="profile-picture.jpg" alt="Profile Picture">
+            </div>
+            <div class="profile-details">
+                <p class="name">Norman Sambo</p>
+                <p class="job-title">Software or Web Developer | Computer Systems Engineer</p>
+                <button class="hire-me" onclick="scrollToContact()">Hire Me</button>
+            </div>
+        </div>
         <p>I am a highly motivated person whose driven by passion in new technology and inovation, 
             I am more interested in Software/Website Development and also Networking Technology. 
             I am currently seeking a role which allows me to continue learning and gain work experience in Engineering, 
@@ -37,7 +46,6 @@
             To enhance my skills & academic knowledge I have done some online courses which are Introduction to Cyber Security, 
             Introduction to Data Science, Computer Hardwares Basics, Programming (Python, C++ and also HTML, CSS, Javascript).
         </p>
-        <!-- Download Resume Button -->
         <a href="resume.pdf" download class="download-button">Download My Resume</a>
     </section>
     <section id="skills">
@@ -49,81 +57,81 @@
             <li>Cyber Security (Cisco Network Academy - Introduction to Cyber Security)</li>
             <li>Computer Hardware (Cisco Network Academy - Introduction to Computer Hardware)</li>
         </ul>
-    <h3>Skills Matrix</h3>
-    <table>
-        <thead>
-            <tr>
-                <th>Skills</th>
-                <th>Proficiency (%)</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Project Management</td>
-                <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
-            </tr>
-            <tr>
-                <td>Communication</td>
-                <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
-            </tr>
-            <tr>
-                <td>Leadership</td>
-                <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
-            </tr>
-            <tr>
-                <td>Time Management</td>
-                <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
-            </tr>
-            <tr>
-                <td>Problem Solving</td>
-                <td><img src="https://progress-bar.dev/90/?title=90%" alt="90%"></td>
-            </tr>
-            <tr>
-                <td>Critical Thinking</td>
-                <td><img src="https://progress-bar.dev/70/?title=70%" alt="70%"></td>
-            </tr>
-            <tr>
-                <td><strong>Technical Skills</strong></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Programming Languages</td>
-                <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
-            </tr>
-            <tr>
-                <td>Web Development</td>
-                <td><img src="https://progress-bar.dev/70/?title=70%" alt="70%"></td>
-            </tr>
-            <tr>
-                <td>Networking</td>
-                <td><img src="https://progress-bar.dev/50/?title=50%" alt="50%"></td>
-            </tr>
-            <tr>
-                <td>Cybersecurity</td>
-                <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
-            </tr>
-            <tr>
-                <td><strong>Soft Skills</strong></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Teamwork</td>
-                <td><img src="https://progress-bar.dev/100/?title=100%" alt="100%"></td>
-            </tr>
-            <tr>
-                <td>Creativity</td>
-                <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
-            </tr>
-            <tr>
-                <td>Problem Solving</td>
-                <td><img src="https://progress-bar.dev/90/?title=90%" alt="90%"></td>
-            </tr>
-            <tr>
-                <td>Leadership</td>
-                <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
-            </tr>
-        </tbody>
-    </table>
+        <h3>Skills Matrix</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Skills</th>
+                    <th>Proficiency (%)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Project Management</td>
+                    <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
+                </tr>
+                <tr>
+                    <td>Communication</td>
+                    <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
+                </tr>
+                <tr>
+                    <td>Leadership</td>
+                    <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
+                </tr>
+                <tr>
+                    <td>Time Management</td>
+                    <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
+                </tr>
+                <tr>
+                    <td>Problem Solving</td>
+                    <td><img src="https://progress-bar.dev/90/?title=90%" alt="90%"></td>
+                </tr>
+                <tr>
+                    <td>Critical Thinking</td>
+                    <td><img src="https://progress-bar.dev/70/?title=70%" alt="70%"></td>
+                </tr>
+                <tr>
+                    <td><strong>Technical Skills</strong></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Programming Languages</td>
+                    <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
+                </tr>
+                <tr>
+                    <td>Web Development</td>
+                    <td><img src="https://progress-bar.dev/70/?title=70%" alt="70%"></td>
+                </tr>
+                <tr>
+                    <td>Networking</td>
+                    <td><img src="https://progress-bar.dev/50/?title=50%" alt="50%"></td>
+                </tr>
+                <tr>
+                    <td>Cybersecurity</td>
+                    <td><img src="https://progress-bar.dev/60/?title=60%" alt="60%"></td>
+                </tr>
+                <tr>
+                    <td><strong>Soft Skills</strong></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Teamwork</td>
+                    <td><img src="https://progress-bar.dev/100/?title=100%" alt="100%"></td>
+                </tr>
+                <tr>
+                    <td>Creativity</td>
+                    <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
+                </tr>
+                <tr>
+                    <td>Problem Solving</td>
+                    <td><img src="https://progress-bar.dev/90/?title=90%" alt="90%"></td>
+                </tr>
+                <tr>
+                    <td>Leadership</td>
+                    <td><img src="https://progress-bar.dev/80/?title=80%" alt="80%"></td>
+                </tr>
+            </tbody>
+        </table>
     </section>
     <section id="education">
         <h2>Education</h2>
@@ -144,6 +152,11 @@
         <h2>Contact</h2>
         <p>Email: <a href="mailto:normansambo26@gmail.com">normansambo26@gmail.com</a></p>
         <p>Address: South Africa, Johannesburg</p>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/" target="_blank"><img src="facebook-icon.png" alt="Facebook"></a>
+            <a href="https://www.linkedin.com/" target="_blank"><img src="linkedin-icon.png" alt="LinkedIn"></a>
+            <a href="mailto:normansambo26@gmail.com"><img src="email-icon.png" alt="Email"></a>
+        </div>
     </section>
     <footer>
         <p>&copy; 2024 Norman Sambo, All Rights Reserved</p>
